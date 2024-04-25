@@ -1,4 +1,4 @@
-# Dashboard de Vendas e Receitas Streamlit
+# Dashboard de Vendas e Receitas
 
 Este é um projeto de dashboard de vendas e receitas criado como parte dos meus estudos, utilizando a biblioteca Streamlit do Python. O objetivo principal deste projeto é fornecer uma interface interativa para visualização e análise de dados de vendas e receitas.
 
