@@ -11,11 +11,11 @@ Este é um projeto de dashboard de vendas e receitas criado como parte dos meus 
 
 ### Tecnologias Utilizadas
 
-Python
-Streamlit
-Pandas
-Plotly
-Requests
+* Python
+* Streamlit
+* Pandas
+* Plotly
+* Requests
 
 ### Observação
 
